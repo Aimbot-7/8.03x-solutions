@@ -10,7 +10,7 @@ Solved assignments for 8.03x: Vibrations and Waves by Walter Lewin.
 - [Problem Set 06](https://github.com/Aimbot-7/8.03x-solutions/blob/main/problem_set_06/Problem_Set_6.pdf)
 - [Problem Set 07](https://github.com/Aimbot-7/8.03x-solutions/blob/main/problem_set_07/Problem_Set_7.pdf)
 
-_Solution sets for problem sets 5, 8,9,10, and 11 will be added soon._
+_Solution sets for problem sets 5, 8, 9, 10, and 11 will be added soon._
 
 ## Directory Structure
 Each problem sets's data is placed in its own directory. Alongside the PDF of solution, some of the following files and folders (if not all) are present as well:
