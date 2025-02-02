@@ -1,5 +1,5 @@
-# 8.02x Solutions
-Solved assignments for 8.02x: Electricity and Magnetism by Walter Lewin.
+# 8.03x Solutions
+Solved assignments for 8.03x: Vibrations and Waves by Walter Lewin.
 
 **View PDFs for solutions:**
 
