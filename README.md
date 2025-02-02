@@ -17,6 +17,7 @@ Each problem sets's data is placed in its own directory. Alongside the PDF of so
 
 - **`main.tex`** - LaTeX file for the problem set solution.
 - **`figs`** - Directory containing figures and graphs used in solution.
+- **`graph_code`** - Directory containing Python code for generating graphs used in the solution.
     - Each figure is named with following naming scheme:
     
       **`fig_<scope>_<problem_number>[fig_number].<extension>`**
@@ -31,6 +32,11 @@ Each problem sets's data is placed in its own directory. Alongside the PDF of so
 
     - For example, `fig_prob_2.4a.pdf` represents the first figure used in problem 2.4 and `fig_sol_3.1.png` represents the _only_ figure used in solution of problem 3.1.
 
+    - Each Python file is named in the following manner:
 
+      **`code_sol_<problem_number>[fig_number].py`**
+
+    - As an illustration, `code_sol_4.1a.py` corresponds to the Python file containing the code for the first graph used in the solution of problem 4.1.
+      
 ## Contributing
 If you find any error or discrepancy in the solved assignments, feel free to [open an issue](https://github.com/Aimbot-7/8.02x-solutions/issues) to report it or you can fix it directly by [opening a pull request](https://github.com/Aimbot-7/8.02x-solutions/pulls).
