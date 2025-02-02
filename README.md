@@ -36,7 +36,7 @@ Each problem sets's data is placed in its own directory. Alongside the PDF of so
 
       **`code_sol_<problem_number>[fig_number].py`**
 
-    - As an illustration, `code_sol_4.1a.py` corresponds to the Python file containing the code for the first graph used in the solution of problem 4.1.
+    - As an illustration, `code_sol_4.1a.py` corresponds to the Python file containing the code for the _first_ graph used in the solution of problem 4.1.
       
 ## Contributing
 If you find any error or discrepancy in the solved assignments, feel free to [open an issue](https://github.com/Aimbot-7/8.02x-solutions/issues) to report it or you can fix it directly by [opening a pull request](https://github.com/Aimbot-7/8.02x-solutions/pulls).
